@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">音乐社区</string>
     <string name="welcome">听你想听</string>
+    <string name="login_background">登陆界面背景\n</string>
+    <string name="username_input">请输入您的用户名</string>
+    <string name="password_input">请输入密码</string>
+    <string name="password_input_again">确认密码</string>
 </resources>
